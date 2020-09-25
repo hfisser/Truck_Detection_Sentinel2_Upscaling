@@ -1,6 +1,6 @@
-## Sentinel-2 truck detection - upscaling
+## Sentinel-2 truck detection
 
-Can we detect moving trucks using Sentinel-2 data? Normally, targeting objects of this size at 10 m resolution does not seem promising. Still, Henrik Fisser, Master's student at the University of Würzburg, presented a method that enables to detect moving trucks with Sentinel-2 data and won the first prize of the [Euro Data Cube COVID-19 Custom Script Contest](https://www.sentinel-hub.com/contest-covid/) with this contribution. The method exploits an effect of the Sentinel-2 Multispectral Instrument (MSI) that sees moving objects not once per spectral band at slightly different times. Due to this effect objects of sufficient size appear spectrally disassembled in the data, which makes them detectable based on the unusual spectral signature.
+Can we detect moving trucks using Sentinel-2 data? Normally, targeting objects of this size at 10 m resolution does not seem promising. Still, Henrik Fisser, Master's student at the University of Würzburg, presented a method that enables the detection of moving trucks with Sentinel-2 data and won the first prize of the [Euro Data Cube COVID-19 Custom Script Contest](https://www.sentinel-hub.com/contest-covid/) with this contribution. The method exploits an effect of the Sentinel-2 Multispectral Instrument (MSI) that sees moving objects not once per spectral band at slightly different times. Due to this effect objects of sufficient size appear spectrally disassembled in the data, which makes them detectable based on the unusual spectral signature.
 <p align="center">
 <img src="https://github.com/hfisser/Truck_Detection_Sentinel2_Upscaling/blob/master/2018-04-19_france.jpeg"width=400/>
 </p>
