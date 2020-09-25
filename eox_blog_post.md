@@ -5,6 +5,7 @@ Can we detect moving trucks using Sentinel-2 data? Normally, targeting objects o
 <img src="https://github.com/hfisser/Truck_Detection_Sentinel2_Upscaling/blob/master/2018-04-19_france.jpeg"width=400/>
 </p>
 *Fig. 1: Truck detection example in southern France*
+
 After having proven the concept, Henrik Fisser scaled up the truck detection to the area of the whole EU for integration into the [Rapid Action on Coronavirus and EO (RACE)](https://race.esa.int/) dashboard. The derived truck information may indicate how truck traffic has developed during the COVID-19 pandemic compared to normal years.
 All data processing was implemented on [Euro Data Cube](https://eurodatacube.com/) resources. In the Euro Data Cube session at ESA EO Phi-Week Henrik is going to present his work on Sentinel-2 truck detection and the upscaling to the whole EU.
 
